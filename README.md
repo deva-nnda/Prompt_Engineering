@@ -5,15 +5,15 @@ ASSIGNMENT:
 ## file order
 this respository contains files as follows;
 1. `1_promptengineering`
-   >this part explores the theory of prompt engineering and large language models.
+  >this part explores the theory of prompt engineering and large language models.
 2. `2_promptdesign.ipynb - Colab`
-   >prompt design and experimentation using colab notebook
+  >prompt design and experimentation using colab notebook
 3.  `3_miniproject.ipynb - Colab`
-   >casestudy/ miniproject+ report using colab notebook
+  >casestudy/ miniproject+ report using colab notebook
 4.  `4_ethics`
-   >eassy on ethics and limitation of LLMs
+  >eassy on ethics and limitation of LLMs
 5.  `screenshots/`
-> folder containing screenshots of LLM sections
+  > folder containing screenshots of LLM sections
 ---
 
 ## note:
